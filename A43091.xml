@@ -1,0 +1,310 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Have you any work for a cooper, or, A comparison betwixt a cooper's and a joyner's trade wherein their qualities are both display'd, but still the cooper, as you here may find, the joyner does excell in ev'ry kind : the tune, The fryar and the nun, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43091</idno>
+            <idno type="STC">Wing H1161</idno>
+            <idno type="STC">ESTC R14845</idno>
+            <idno type="EEBO-CITATION">13142870</idno>
+            <idno type="OCLC">ocm 13142870</idno>
+            <idno type="VID">98016</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43091)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98016)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 420:9 or 21241:95)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Have you any work for a cooper, or, A comparison betwixt a cooper's and a joyner's trade wherein their qualities are both display'd, but still the cooper, as you here may find, the joyner does excell in ev'ry kind : the tune, The fryar and the nun, &amp;c.</title>
+               </titleStmt>
+               <extent>2 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.H.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Folk songs, English --  England --  Texts.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:98016:1" rendition="simple:additions"/>
+            <head>Have You any Work for a COOPER? OR, A COMPARISON
+<l>
+                  <hi>Betwixt a</hi> Cooper's, <hi>and a</hi> Joyner's <hi>Trade,</hi>
+               </l>
+               <l>
+                  <hi>Wherein their Qualities are both diſplay'd:</hi>
+               </l>
+               <l>
+                  <hi>But ſtill the</hi> Cooper, <hi>as you Here may ſind,</hi>
+               </l>
+               <l>
+                  <hi>The</hi> Joyner <hi>does Excell in ev'ry Kind.</hi>
+               </l>
+            </head>
+            <opener>
+               <hi>The Tune,</hi> The Fryar and the Nun, <hi>&amp;c.</hi>
+            </opener>
+            <lg>
+               <l>THE <hi>Cooper,</hi> and the <hi>Joyner,</hi> are Two famous Trades:</l>
+               <l>They both are cunning Work-men; they both are crafty Lads:</l>
+               <l>They both can varniſh off their Work; both will you Trepan:</l>
+               <l>
+                  <hi>Yet ſay what you will, the</hi> Cooper <hi>is the</hi> — Man.</l>
+            </lg>
+            <lg>
+               <l>They both have their Trade well, to give the <hi>Devil</hi> his Due;</l>
+               <l>Nay, ſome ſtick not to ſay, He was their Maſter too:</l>
+               <l>But though the <hi>Joyner</hi> do appear the more Active Blade;</l>
+               <l>
+                  <hi>Yet ſay what you will, the</hi> Cooper <hi>is the</hi> — Lad.</l>
+            </lg>
+            <lg>
+               <l>They both work in Timber, but not in the ſame Wood:</l>
+               <l>The <hi>Cooper</hi> works in <hi>Aſh,</hi> that Hilts makes firm and good</l>
+               <l>For the Axe, that on the Head all Lordly Traitours knocks:</l>
+               <l>
+                  <hi>Yet ſay what you will, the</hi> Cooper <hi>is the</hi> — Fox.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Joyner</hi> he (of late) work't for Life 'bout a Tree,</l>
+               <l>Like the Old <hi>Tripple-Oak,</hi> which near <hi>Hide-Park</hi> you ſee;</l>
+               <l>Where many Trait'rous <hi>Pendulums</hi> have had a ſhrewd Diſaſter:</l>
+               <l>
+                  <hi>Yet ſay what you will, the</hi> Cooper <hi>is their</hi> — Maſter.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Cooper</hi> he hoops Hogſheads, and a Hole i'th' Side leaves open;</l>
+               <l>The <hi>Joyner</hi> he Joynes all Things, except a Neck that's broken:</l>
+               <l>Though both were wrapt up in the Smock of their <hi>City-Mother;</hi>
+               </l>
+               <l>
+                  <hi>Yet ſay what you will, the</hi> Cooper's — <hi>Th'</hi> Elder-Brother.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Cooper</hi> on his Friends, late caſts a Squinting-Eye:</l>
+               <l>The <hi>Joyner</hi> too of late, does ſhrewdly look a-wry.</l>
+               <l>And though they do, in this one Point, both of them agree:</l>
+               <l>
+                  <hi>Yet ſay what you will, the</hi> Cooper's — <hi>Ipſe</hi> He.</l>
+            </lg>
+            <lg>
+               <l>Both are True <hi>Proteſtants,</hi> and of the Neweſt Stamp,</l>
+               <l>(Such as <hi>Jack Presbyter</hi> does with an <hi>Atheiſt</hi> Vamp:)</l>
+               <l>Both the Glory of the Church; both in the old Way bred;</l>
+               <l>
+                  <hi>Yet ſay what you will, the</hi> Cooper <hi>is its</hi> — Head.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Cooper</hi> he can make a Speech to be admir'd:</l>
+               <l>The <hi>Joyner</hi> too can prate, as if he were inſpir'd;</l>
+               <l>It ſeems his Clapper is well hung, (I wiſh them well hung both;)</l>
+               <l>
+                  <hi>Yet ſay what you will, the</hi> Cooper <hi>is the</hi> — Youth.</l>
+            </lg>
+            <lg>
+               <l>They both went to <hi>Oxford,</hi> to Study, I ſuppoſe;</l>
+               <l>But not both of One <hi>Colledge,</hi> yet both of <hi>Brazen-Noſe:</hi>
+               </l>
+               <l>But One of them ſtaid behind, his Degrees to take there:</l>
+               <l>
+                  <hi>And ſay what you will, the</hi> Cooper <hi>is a</hi> — Quaker.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Univerſity</hi> diſcovered ſoon their Parts:</l>
+               <l>But it had never yet There, Maſters of ſuch Arts:</l>
+               <l>Each of them for the <hi>Good Old Cauſe,</hi> doubtleſs is a Right Boy:</l>
+               <l>
+                  <hi>Yet ſay what you will, the</hi> Cooper <hi>is the</hi> — White-Boy.</l>
+            </lg>
+            <pb facs="tcp:98016:2" rendition="simple:additions"/>
+            <lg>
+               <l>The <hi>
+                     <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> 
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> about Town, is now the <hi>Cooper's</hi> Cry;</l>
+               <l>The <hi>King</hi> Diſſolves, then cryes the <hi>Joyner</hi> by and by;</l>
+               <l>And the <hi>People</hi> do Reſolve, is the <hi>Rabble</hi>'s Vogue:</l>
+               <l>
+                  <hi>Yet ſay what you will, the</hi> Cooper <hi>is the</hi> — Rogue.</l>
+            </lg>
+            <lg>
+               <l>Creat Schollars ſtood amaz'd, to hear the <hi>Cooper</hi> plead;</l>
+               <l>And wonder'd too to hear, what the Learned <hi>Joyner</hi> ſaid:</l>
+               <l>He of all the Bawling Curs, is the Chief Controuler:</l>
+               <l>
+                  <hi>But ſay what you will, the</hi> Cooper <hi>is</hi> — Old Jouler.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Cooper</hi> is, you know; Chief Work-man to a <hi>Brewer;</hi>
+               </l>
+               <l>The <hi>Joyner</hi> work't for both, but make not Work ſo ſure;</l>
+               <l>As apppear'd not long agoe, much to the <hi>Cooper</hi>'s Grief:</l>
+               <l>
+                  <hi>Yet ſay what you will, the</hi> Cooper's a — Sly Thief.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Cooper</hi> by his Calling, does often work with Fools;</l>
+               <l>The <hi>Joyner</hi> does the ſame too, and uſes the ſame Tools:</l>
+               <l>And though he be accounted, by all a Subtle Slave;</l>
+               <l>
+                  <hi>Yet ſay what you will, the</hi> Cooper <hi>is the</hi> — Knave.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Cooper</hi> is an Elder-man of Fame and Renown;</l>
+               <l>The <hi>Joyner</hi> is likewiſe a Free-man of the <hi>Town:</hi>
+               </l>
+               <l>And though he wears no Gown, he did lately wear a Chain;</l>
+               <l>
+                  <hi>Yet ſay what you will, the</hi> Cooper <hi>merits</hi> — <hi>Twain.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Both (like their Fellow-Tradeſmen) can Cant and Cringe, to Cheat</l>
+               <l>Their Cuſtomers with Wares, Falſe and Adulterate;</l>
+               <l>And ſell too their own Fathers, for a Penny in the Shilling:</l>
+               <l>
+                  <hi>Yet ſay what you will, the</hi> Cooper <hi>is the</hi> — Villain.</l>
+            </lg>
+            <lg>
+               <l>They both can Yea and Nay, both can Profeſs, to get</l>
+               <l>Unwary ſilly <hi>Wood-Cocks</hi> into their Treacherous Net:</l>
+               <l>Both can ſnear like <hi>Saints,</hi> with Carriage wondrous Civil;</l>
+               <l>
+                  <hi>Yet ſay what you will, the</hi> Cooper <hi>is a</hi> — Devil.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Cooper</hi> he is free to work i'th' <hi>Tower</hi> all Day;</l>
+               <l>But not with th' <hi>Popiſh Lords,</hi> at Pins or Bowls to Play;</l>
+               <l>Or any ſuch Prophane Game, whereof the <hi>Pope</hi>'s Contriver:</l>
+               <l>
+                  <hi>Yet ſay what you will, the</hi> Cooper's <hi>the</hi> — Top-driver.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Joyner</hi> has a Freedom herein beyond the <hi>Cooper;</hi>
+               </l>
+               <l>For he i'th' open Field, with <hi>Ketch</hi> may play a Rubber:</l>
+               <l>And though he were ſo mad, his Neck to venture at one Stake there;</l>
+               <l>
+                  <hi>Yet ſay what you will, the</hi> Cooper's <hi>the</hi> — Match-Maker.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Cooper</hi> he has been a <hi>Parliament-Cavalier;</hi>
+               </l>
+               <l>The <hi>Joyner</hi> had been for the Next Election fair,</l>
+               <l>Had he not late miſcarry'd by the <hi>Member</hi>'s Diviſion;</l>
+               <l>
+                  <hi>Yet ſay what you will,</hi> Cooper's <hi>the</hi> — Politician.</l>
+            </lg>
+            <lg>
+               <l>All you can for the <hi>Joyner</hi> ſay, (ſay your Beſt, or Worſt)</l>
+               <l>Is, That he had the Honour to be <hi>Exalted</hi> firſt.</l>
+               <l>Well, I'le to oblige you, grant that Part of your Text:</l>
+               <l>
+                  <hi>Yet ſay what you will, the</hi> Cooper <hi>will be</hi> — <hi>Next.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Now, pray take Notice all of you, what-e're you are,</l>
+               <l>That 'fore the Noble <hi>Cooper,</hi> the <hi>Joyner</hi> do prefer;</l>
+               <l>You muſt confeſs, That if with him in any ſort compar'd,</l>
+               <l>
+                  <hi>E'en ſay what you will, the</hi> Cooper <hi>is a</hi> — Laird.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. H.</hi> in the YEAR 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
